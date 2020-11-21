@@ -9,3 +9,6 @@ This repo maintains a list of projects.
 
 # Notes
 
+- Mathematics
+
+- Computer Science

@@ -1,6 +1,6 @@
 # Web Applications
 
-- Paper trading system on US stocks: https://derek-cs50-finance.herokuapp.com/ (US server. Might take time to load.)
+- Paper trading system on US stocks: [Details](https://github.com/derekl-beep/cs50-finance) / [Demo](https://derek-cs50-finance.herokuapp.com/) (US server. Might take time to load.)
 
 - To-do list: https://derek-to-do-list.herokuapp.com (US server. Might take time to load.)
 

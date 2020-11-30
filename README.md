@@ -2,6 +2,8 @@
 
 - Paper trading system on US stocks: [Details](https://github.com/derekl-beep/cs50-finance) / https://derek-cs50-finance.herokuapp.com/ (US server. Might take time to load.)
 
+- IG Account Searcher: [Details](https://github.com/derekl-beep/ig-searcher)
+
 - To-do list: https://derek-to-do-list.herokuapp.com (US server. Might take time to load.)
 
 - Landing page: https://derekl-beep.github.io/web-dev/

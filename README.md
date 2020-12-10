@@ -25,14 +25,15 @@
 
 Repo: https://github.com/derekl-beep/cs-notes
 
-### Financial Mathematics
-- [Fixed Income Derivatives](https://htmlpreview.github.io/?https://github.com/derekl-beep/cs-notes/blob/master/Financial%20Math/Fixed%20Income%20Derivatives.html)
-- Equity Derivatives (To be available)
-
 ### Mathematics
 - [Fourier Analysis](https://htmlpreview.github.io/?https://github.com/derekl-beep/cs-notes/blob/master/Mathematics/Fourier%20Analysis.html)
 - [Singular Value Decomposition](https://htmlpreview.github.io/?https://github.com/derekl-beep/cs-notes/blob/master/Mathematics/Singular%20Value%20Decomposition.html)
 - [Control Theory](https://htmlpreview.github.io/?https://github.com/derekl-beep/cs-notes/blob/master/Mathematics/Control%20Theory.html)
+
+
+#### Financial Mathematics
+- [Fixed Income Derivatives](https://htmlpreview.github.io/?https://github.com/derekl-beep/cs-notes/blob/master/Financial%20Math/Fixed%20Income%20Derivatives.html)
+- Equity Derivatives (To be available)
 
 ### Computer Science
 

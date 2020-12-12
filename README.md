@@ -50,3 +50,9 @@ Repo: https://github.com/derekl-beep/cs-notes
 
 - [Fundamentals of System Hardware](https://htmlpreview.github.io/?https://github.com/derekl-beep/cs-notes/blob/master/Computer%20Science/OS%20-%201%20-%20System%20Hardware.html)
 - [Intro to Operating Systems](https://htmlpreview.github.io/?https://github.com/derekl-beep/cs-notes/blob/master/Computer%20Science/OS%20-%202%20-%20Intro%20to%20OS.html)
+
+#### Design and Analysis of Algorithms
+
+##### Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+- [Introduction](https://htmlpreview.github.io/?https://github.com/derekl-beep/course-algorithm-specialization/blob/main/Algo%20-%201%20-%20Intro.html)
+- [Asymptotic Analysis](https://htmlpreview.github.io/?https://github.com/derekl-beep/course-algorithm-specialization/blob/main/Algo%20-%202%20-%20Asymptotic%20Analysis.html)
